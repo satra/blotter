@@ -6,8 +6,11 @@ markdown: redcarpet
 permalink: /:categories/:title/
 future: true
 
-plugins:
-  - jekyll-katex
+markdown: kramdown
+kramdown:
+  math_engine: mathjax
+  math_engine_opts:
+    preview: true   # not default but better acessibility
 
 redcarpet:
   extensions:

@@ -40,9 +40,6 @@ GEM
       pathutil (~> 0.9)
       rouge (>= 1.7, < 4)
       safe_yaml (~> 1.0)
-    jekyll-katex (0.3.0)
-      execjs (~> 2.7)
-      jekyll (~> 3.8)
     jekyll-press (0.2.1)
       html_press (>= 0.8.2)
       jekyll
@@ -102,7 +99,6 @@ PLATFORMS
 
 DEPENDENCIES
   jekyll (= 3.8.5)
-  jekyll-katex
   jekyll-press
   less
   netrc
