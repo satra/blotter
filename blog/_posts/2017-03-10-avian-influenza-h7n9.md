@@ -16,7 +16,7 @@ Please note that the analysis currently presented in nextstrain is preliminary a
 
 
 ### Phylogeny & Geographic Distribution
-![geographic-distribution](/images/blog/h7n9_lineages.png)
+![geographic-distribution]({{ site.baseurl }}/images/blog/h7n9_lineages.png)
 The HA phylogeny indicates that the expansion of a single lineage contributes 86% of sequences from the current epidemic. Temporal analysis indicates that this lineage originated during the 2015 (third) epidemic, however only one isolate from this lineage was sampled during the fourth epidemic. Inference of the geographical distribution of H7N9 indicate frequent jumps throughout the eastern coast of China, with limited dispersion elsewhere. Host jumps have also been inferred, however incomplete sampling restricts our ability to comment further.
 
 
@@ -29,7 +29,7 @@ Despite the lack of expansion during this epidemic, the potential for a highly p
 
 
 ### Reassortment
-![reassortment](/images/blog/h7n9_tangle.png)
+![reassortment]({{ site.baseurl }}/images/blog/h7n9_tangle.png)
 Reassortment led to the origin of human H7N9 and continues to play a role during the epidemics. The above figure shows that the current dominant clade in the HA phylogeny, which contributes the majority of fifth epidemic cases, is comprised of at least two NA clades due to reassortment. The isolates containing the protease cleavage site insertion (in HA) are monophyletic in both HA and NA segments.
 
 
@@ -39,4 +39,4 @@ A full list of labs and authors who have made data available for analysis in the
 
 <!-- ### mutations on branches leading to expansion -->
 
-<!-- ![image-title-here](/images/blog/h7n9_geo.png){:class="img-responsive"} -->
+<!-- ![image-title-here]({{ site.baseurl }}/images/blog/h7n9_geo.png){:class="img-responsive"} -->

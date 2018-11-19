@@ -13,7 +13,7 @@ There is now public voting to determine which three entries will move forward to
 <div class="row">
 	<div class="col-md-2"></div>
 	<div class="col-md-8">
-		<img src="/images/blog/cotten_nextstrain_watercolor.jpg">
+		<img src="{{ site.baseurl }}/images/blog/cotten_nextstrain_watercolor.jpg">
 	</div>
 	<div class="col-md-2"></div>
 </div>

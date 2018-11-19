@@ -9,7 +9,7 @@ layout: default
 			<div class="media">
 				<div class="media-body">
 					<div class="title media-heading">
-						<a href="{{ page.url }}" class="off">{{ page.title }}</a>
+						<a href="{{ site.baseurl }}{{ page.url }}" class="off">{{ page.title }}</a>
 					</div>
 					<p>
 					<div class="smallhead">
@@ -18,7 +18,7 @@ layout: default
 						by <a class="off" href="
 							{% for member in site.categories.team %}
 								{% if member.title == page.author %}
-									{{ member.url }}
+									{{ site.baseurl }}{{ member.url }}
 								{% endif %}
 							{% endfor %}
 						">
@@ -30,7 +30,7 @@ layout: default
 						<a class="off" href="
 							{% for member in site.categories.team %}
 								{% if member.title == page.authors.first %}
-									{{ member.url }}
+									{{ site.baseurl }}{{ member.url }}
 								{% endif %}
 							{% endfor %}
 						">
@@ -62,10 +62,10 @@ layout: default
 			{% if page.image %}
 			{% if page.link %}
 			<a href="{{ page.link }}">
-				<img class="offset" src="{{ page.image }}">
+				<img class="offset" src="{{ site.baseurl }}{{ page.image }}">
 			</a>
 			{% else %}
-			<img class="offset" src="{{ page.image }}">
+			<img class="offset" src="{{ site.baseurl }}{{ page.image }}">
 			{% endif %}
 			{% endif %}
 			<div class="post">

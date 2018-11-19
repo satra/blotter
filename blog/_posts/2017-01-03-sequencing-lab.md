@@ -13,7 +13,7 @@ Importantly this has been a group effort. The fact that we have this data is a h
 <div class="row">
 	<div class="col-md-1"></div>
 	<div class="col-md-10">
-		<img src="/images/blog/usvi_sequencing.jpg">
+		<img src="{{ site.baseurl }}/images/blog/usvi_sequencing.jpg">
 	</div>
 	<div class="col-md-1"></div>
 </div>

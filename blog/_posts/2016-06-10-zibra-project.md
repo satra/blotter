@@ -24,38 +24,38 @@ We finished base calling and assembly on the first MinION runs on June 8, but re
 
 <div class="row">
 	<div class="col-sm-2">
-		<a href="/images/blog/zibra_photos/img_1183.jpg">
-			<img src="/images/blog/zibra_photos_thumbnails/img_1183.jpg">
+		<a href="{{ site.baseurl }}/images/blog/zibra_photos/img_1183.jpg">
+			<img src="{{ site.baseurl }}/images/blog/zibra_photos_thumbnails/img_1183.jpg">
 		</a>
 		<div class="bigspacer"></div>
 	</div>
 	<div class="col-sm-2">
-		<a href="/images/blog/zibra_photos/img_1190.jpg">
-			<img src="/images/blog/zibra_photos_thumbnails/img_1190.jpg">
+		<a href="{{ site.baseurl }}/images/blog/zibra_photos/img_1190.jpg">
+			<img src="{{ site.baseurl }}/images/blog/zibra_photos_thumbnails/img_1190.jpg">
 		</a>
 		<div class="bigspacer"></div>
 	</div>
 	<div class="col-sm-2">
-		<a href="/images/blog/zibra_photos/img_1210.jpg">
-			<img src="/images/blog/zibra_photos_thumbnails/img_1210.jpg">
+		<a href="{{ site.baseurl }}/images/blog/zibra_photos/img_1210.jpg">
+			<img src="{{ site.baseurl }}/images/blog/zibra_photos_thumbnails/img_1210.jpg">
 		</a>
 		<div class="bigspacer"></div>
 	</div>
 	<div class="col-sm-2">
-		<a href="/images/blog/zibra_photos/img_1266.jpg">
-			<img src="/images/blog/zibra_photos_thumbnails/img_1266.jpg">
+		<a href="{{ site.baseurl }}/images/blog/zibra_photos/img_1266.jpg">
+			<img src="{{ site.baseurl }}/images/blog/zibra_photos_thumbnails/img_1266.jpg">
 		</a>
 		<div class="bigspacer"></div>
 	</div>
 	<div class="col-sm-2">
-		<a href="/images/blog/zibra_photos/img_1434.jpg">
-			<img src="/images/blog/zibra_photos_thumbnails/img_1434.jpg">
+		<a href="{{ site.baseurl }}/images/blog/zibra_photos/img_1434.jpg">
+			<img src="{{ site.baseurl }}/images/blog/zibra_photos_thumbnails/img_1434.jpg">
 		</a>
 		<div class="bigspacer"></div>
 	</div>
 	<div class="col-sm-2">
-		<a href="/images/blog/zibra_photos/img_1481.jpg">
-			<img src="/images/blog/zibra_photos_thumbnails/img_1481.jpg">
+		<a href="{{ site.baseurl }}/images/blog/zibra_photos/img_1481.jpg">
+			<img src="{{ site.baseurl }}/images/blog/zibra_photos_thumbnails/img_1481.jpg">
 		</a>
 		<div class="bigspacer"></div>
 	</div>	
@@ -63,38 +63,38 @@ We finished base calling and assembly on the first MinION runs on June 8, but re
 
 <div class="row">
 	<div class="col-sm-2">
-		<a href="/images/blog/zibra_photos/img_1541.jpg">
-			<img src="/images/blog/zibra_photos_thumbnails/img_1541.jpg">
+		<a href="{{ site.baseurl }}/images/blog/zibra_photos/img_1541.jpg">
+			<img src="{{ site.baseurl }}/images/blog/zibra_photos_thumbnails/img_1541.jpg">
 		</a>
 		<div class="bigspacer"></div>
 	</div>
 	<div class="col-sm-2">
-		<a href="/images/blog/zibra_photos/img_1577.jpg">
-			<img src="/images/blog/zibra_photos_thumbnails/img_1577.jpg">
+		<a href="{{ site.baseurl }}/images/blog/zibra_photos/img_1577.jpg">
+			<img src="{{ site.baseurl }}/images/blog/zibra_photos_thumbnails/img_1577.jpg">
 		</a>
 		<div class="bigspacer"></div>
 	</div>
 	<div class="col-sm-2">
-		<a href="/images/blog/zibra_photos/img_1582.jpg">
-			<img src="/images/blog/zibra_photos_thumbnails/img_1582.jpg">
+		<a href="{{ site.baseurl }}/images/blog/zibra_photos/img_1582.jpg">
+			<img src="{{ site.baseurl }}/images/blog/zibra_photos_thumbnails/img_1582.jpg">
 		</a>
 		<div class="bigspacer"></div>
 	</div>
 	<div class="col-sm-2">
-		<a href="/images/blog/zibra_photos/img_1606.jpg">
-			<img src="/images/blog/zibra_photos_thumbnails/img_1606.jpg">
+		<a href="{{ site.baseurl }}/images/blog/zibra_photos/img_1606.jpg">
+			<img src="{{ site.baseurl }}/images/blog/zibra_photos_thumbnails/img_1606.jpg">
 		</a>
 		<div class="bigspacer"></div>
 	</div>
 	<div class="col-sm-2">
-		<a href="/images/blog/zibra_photos/img_1629.jpg">
-			<img src="/images/blog/zibra_photos_thumbnails/img_1629.jpg">
+		<a href="{{ site.baseurl }}/images/blog/zibra_photos/img_1629.jpg">
+			<img src="{{ site.baseurl }}/images/blog/zibra_photos_thumbnails/img_1629.jpg">
 		</a>
 		<div class="bigspacer"></div>
 	</div>
 	<div class="col-sm-2">
-		<a href="/images/blog/zibra_photos/img_1632.jpg">
-			<img src="/images/blog/zibra_photos_thumbnails/img_1632.jpg">
+		<a href="{{ site.baseurl }}/images/blog/zibra_photos/img_1632.jpg">
+			<img src="{{ site.baseurl }}/images/blog/zibra_photos_thumbnails/img_1632.jpg">
 		</a>
 		<div class="bigspacer"></div>
 	</div>
