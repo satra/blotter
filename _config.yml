@@ -3,6 +3,8 @@ description: Science updates on evolution, epidemiology and immunology from the 
 url: https://satra.cogitatum.org
 baseurl: /blotter
 
+root: /blotter
+
 markdown: redcarpet
 permalink: /:categories/:title/
 future: true
