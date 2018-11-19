@@ -1,6 +1,6 @@
 name: Bedford Lab Research
 description: Science updates on evolution, epidemiology and immunology from the Bedford lab at the Fred Hutch
-url: https://satra.cogitatum.org/blotter
+url: https://satra.cogitatum.org
 baseurl: /blotter
 
 markdown: redcarpet
